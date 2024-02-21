@@ -5,7 +5,7 @@ on:
 
 jobs:
   job1:
-    uses: AkionGarro/skills-called-workflow/.github/workflows/called-workflow.yml@v1
+    uses: AkionGarro/skills-called-workflow/.github/workflows/called.yml@main
 
   job2:
     runs-on: ubuntu-latest
